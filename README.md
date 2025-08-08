@@ -2,7 +2,8 @@
 
 A machine learning-powered web application that predicts the likelihood of heart disease based on user-provided health data. Built with *Python, **Streamlit, and **scikit-learn*, and deployed online for real-time usage.
 
-🔗 *Live Demo:* [Click to Open App](https://heartdiseasepredictor-ogsshukdbbhncvui4trcm7.streamlit.app/)
+🔗 **Live Demo:** [Heart Disease Risk Predictor](https://heartdiseasepredictormachinelearningmodel-dgz2vt73lytfpjp8r4mj.streamlit.app/)
+
 
 ---
 
