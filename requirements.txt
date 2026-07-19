@@ -1,7 +1,7 @@
-streamlit
-pandas
-joblib
-scikit-learn
-numpy
-seaborn
-matplotlib
+streamlit~=1.59
+pandas~=3.0
+numpy~=2.5
+joblib~=1.5
+scikit-learn==1.7.0
+sqlalchemy~=2.0
+psycopg2-binary~=2.9

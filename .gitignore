@@ -1,0 +1,21 @@
+# Runtime data - real patient predictions must never be committed
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+!data/.gitkeep
+
+# Model backups created by automatic retraining
+models_backup/
+
+# Secrets
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/

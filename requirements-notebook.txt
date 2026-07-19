@@ -1,0 +1,6 @@
+# Extra dependencies needed only for Heart2_Project.ipynb (EDA/plots), not
+# for running the deployed app. Install alongside requirements.txt:
+#   pip install -r requirements.txt -r requirements-notebook.txt
+seaborn
+matplotlib
+jupyter
